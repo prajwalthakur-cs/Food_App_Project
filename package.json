@@ -1,0 +1,27 @@
+{
+  "name": "food_app",
+  "version": "1.0.0",
+  "description": "A food ordering web application built with React",
+  "keywords": [],
+  "homepage": "https://github.com/prajwalthakur-cs/Food_App_Project#readme",
+  "bugs": {
+    "url": "https://github.com/prajwalthakur-cs/Food_App_Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalthakur-cs/Food_App_Project.git"
+  },
+  "license": "ISC",
+  "author": "Prajwal_Thakur",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
